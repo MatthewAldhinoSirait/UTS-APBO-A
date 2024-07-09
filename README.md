@@ -56,7 +56,7 @@ Pesanan Diambil
 Pesanan Selesai
 5
 Total Pendapatan
-300.000
+300.000.
 
 <h2>WIREFRAME & MOCKUP</h2>
 <h5>LINK FIGMA nya: https://www.figma.com/file/0cxvXPuKSyC6jBOcuSqJI5/Eyo-Steam?type=design&node-id=19-701&mode=design&t=w8COvMWiplbbae7o-0</h5>
