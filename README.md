@@ -56,8 +56,7 @@ Pesanan Diambil
 Pesanan Selesai
 5
 Total Pendapatan
-300.000
-
+300.000.
 
 SEQUENCE DIAGRAM <br>
 ![Sequence Diagram](https://github.com/MatthewAldhinoSirait/UTS-APBO-A/assets/148308997/663b204f-4aa3-4c19-8a52-8a4a9a86667d)
