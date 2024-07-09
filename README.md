@@ -29,8 +29,6 @@ USE CASE <br>
 CLASS DIAGRAM <br>
 ![Class Diagram APBO drawio](https://github.com/DanielDaudAlberthus/UTS-APBO-A/assets/148308997/1e7bd133-0b67-496c-9775-88b4e43edfa1)
 
-<h2>NOTA</h2>
-
 ERD <br>
 ![alt text](https://github.com/DanielDaudAlberthus/UTS-APBO-A/blob/main/erd_steam.png)
 
