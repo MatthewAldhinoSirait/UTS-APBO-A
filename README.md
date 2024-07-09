@@ -32,10 +32,6 @@ CLASS DIAGRAM <br>
 ERD <br>
 ![alt text](https://github.com/DanielDaudAlberthus/UTS-APBO-A/blob/main/erd_steam.png)
 
-<h2>WIREFRAME & MOCKUP</h2>
-
-<h5>LINK FIGMA: https://www.figma.com/file/0cxvXPuKSyC6jBOcuSqJI5/Eyo-Steam?type=design&node-id=19-701&mode=design&t=w8COvMWiplbbae7o-0</h5>
-
 <h2>ROLE PENGGUNA</h2> 
 - Pada laman pertama akan ditampilkan halaman login dimana customer diminta untuk memasukkan username dan password setelah memiliki akun. Apabila belum memilki akun diminta untuk mengisi data kendaraan dan data kepemilikan.
 - Setelah customer login, akan ada tampilan logo notifikasi, riwayat pemesanan, status pemesanan, booking, dan pembayaran. Lalu di bawahnya ada tampilan iklan tentang Eyo Steam dan terdapat pilihan layanan yang di sediakan Eyo Steam meliputi Pencucian Eksterior, Pencucian Interior, Poles & Waxing, dan Setting. Untuk paling bawah terdapat Button home, chat, Setting, dan Profile Customer
@@ -68,6 +64,7 @@ SEQUENCE DIAGRAM <br>
 ACTIVITY DIAGRAM <br>
 ![Activity Diagram drawio](https://github.com/MatthewAldhinoSirait/UTS-APBO-A/assets/148308997/980a23ba-005e-4534-9f09-4805763849d4)
 
+<h2>WIREFRAME & MOCKUP</h2>
 <h5>LINK FIGMA nya: https://www.figma.com/file/0cxvXPuKSyC6jBOcuSqJI5/Eyo-Steam?type=design&node-id=19-701&mode=design&t=w8COvMWiplbbae7o-0</h5>
 
 <h2>YOUTUBE</h2>
