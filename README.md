@@ -62,13 +62,13 @@ Pesanan Selesai
 Total Pendapatan
 300.000
 
-<h5>LINK FIGMA nya: https://www.figma.com/file/0cxvXPuKSyC6jBOcuSqJI5/Eyo-Steam?type=design&node-id=19-701&mode=design&t=w8COvMWiplbbae7o-0</h5>
-
 SEQUENCE DIAGRAM <br>
 ![Sequence Diagram](https://github.com/MatthewAldhinoSirait/UTS-APBO-A/assets/148308997/663b204f-4aa3-4c19-8a52-8a4a9a86667d)
 
 ACTIVITY DIAGRAM <br>
 ![Activity Diagram drawio](https://github.com/MatthewAldhinoSirait/UTS-APBO-A/assets/148308997/980a23ba-005e-4534-9f09-4805763849d4)
+
+<h5>LINK FIGMA nya: https://www.figma.com/file/0cxvXPuKSyC6jBOcuSqJI5/Eyo-Steam?type=design&node-id=19-701&mode=design&t=w8COvMWiplbbae7o-0</h5>
 
 <h2>YOUTUBE</h2>
 <h5>Link Presentasi Youtube: https://youtu.be/OE2-YDiHqIE </h5>
