@@ -36,7 +36,7 @@ ERD <br>
 
 <h5>LINK FIGMA: https://www.figma.com/file/0cxvXPuKSyC6jBOcuSqJI5/Eyo-Steam?type=design&node-id=19-701&mode=design&t=w8COvMWiplbbae7o-0</h5>
 
-<h2>Role Pengguna</h2> 
+<h2>ROLE PENGGUNA</h2> 
 - Pada laman pertama akan ditampilkan halaman login dimana customer diminta untuk memasukkan username dan password setelah memiliki akun. Apabila belum memilki akun diminta untuk mengisi data kendaraan dan data kepemilikan.
 - Setelah customer login, akan ada tampilan logo notifikasi, riwayat pemesanan, status pemesanan, booking, dan pembayaran. Lalu di bawahnya ada tampilan iklan tentang Eyo Steam dan terdapat pilihan layanan yang di sediakan Eyo Steam meliputi Pencucian Eksterior, Pencucian Interior, Poles & Waxing, dan Setting. Untuk paling bawah terdapat Button home, chat, Setting, dan Profile Customer
 - Pada halaman Setting, terdapat pengaturan umum dan nomor telepon. Lalu kami menyediakan mode gelap dan mode terang tergantung senyaman nya penggunaan customer, tersedia juga ganti kata sandi agar memudahkan customer apabila lupa terhadap kata sandi mereka. Customer juga dapat memilih bahasa yang akan mereka gunakan pada aplikasi ini pada Pilihan Bahasa. Untuk informasi lebih lanjut, customer dapat melihat tentang aplikasi, Syarat & Ketentuan, dan customer juga dapat membagikan aplikasi ini. 
@@ -46,7 +46,7 @@ ERD <br>
 - Pada bagian pembayaran, customer akan melihat nama nya sendiri dan deskripsi layanan apa saja yang di kerjakan pada kendaraannya dan akan di tampilkan harga total dari semua layanan nya. Customer dapat membayar nya melalui kasir atau bisa dengan Qrish
 - Pada halaman riwayat pemesanan, customer akan melihat proses selesai kendaraannya dan dengan detail pengerjaan apa yang di lakukan pada kendaraan customer. Lalu customer diminta untuk memberikan penilaian untuk Eyo Steam tersebut. 
 
-<h2>Role Petugas</h2> 
+<h2>ROLE PETUGAS</h2> 
 - Pada laman pertama akan ditampilkan halaman login dimana petugas diminta untuk memasukkan username dan password setelah diberikan akun Eyo Steam. Login tersebut akan di lakukan oleh admin Eyo Steam
 - Setelah melakukan login, admin akan ditampilkan kata pembuka selamat datang dan di samping nya terdapat fitur notifikasi. Kemudian, admin akan di mudahkan dengan adanya fitur ambil pesanan, riwayat pesanan, check in, dan dashboard. Pada navigasi bawah, terdapat home, chat, setting, dan profile dari Eyo Steam.
 - Pada halaman ambil pesanan, admin akan ditunjukkan kendaraan apa saja yang sudah membooking atau antri untuk di cuci/layanan lain untuk kendaraannya. Admin dimudahkan dengan adanya fitur terima, karena secara otomatis akan menerima antrian pengerjaan kendaraan selanjutnya
@@ -64,5 +64,5 @@ Total Pendapatan
 
 <h5>LINK FIGMA nya: https://www.figma.com/file/0cxvXPuKSyC6jBOcuSqJI5/Eyo-Steam?type=design&node-id=19-701&mode=design&t=w8COvMWiplbbae7o-0</h5>
 
-<h2>Youtube</h2>
+<h2>YOUTUBE</h2>
 <h5>Link Presentasi Youtube: https://youtu.be/OE2-YDiHqIE </h5>
