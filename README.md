@@ -64,10 +64,10 @@ Total Pendapatan
 
 <h5>LINK FIGMA nya: https://www.figma.com/file/0cxvXPuKSyC6jBOcuSqJI5/Eyo-Steam?type=design&node-id=19-701&mode=design&t=w8COvMWiplbbae7o-0</h5>
 
-<h2>SECQUENCE DIAGRAM</h2>
+SEQUENCE DIAGRAM <br>
 ![Sequence Diagram](https://github.com/MatthewAldhinoSirait/UTS-APBO-A/assets/148308997/663b204f-4aa3-4c19-8a52-8a4a9a86667d)
 
-<h2>ACTIVITY DIAGRAM</h2>
+ACTIVITY DIAGRAM <br>
 ![Activity Diagram drawio](https://github.com/MatthewAldhinoSirait/UTS-APBO-A/assets/148308997/980a23ba-005e-4534-9f09-4805763849d4)
 
 <h2>YOUTUBE</h2>
