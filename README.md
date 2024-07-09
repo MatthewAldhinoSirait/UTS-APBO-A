@@ -29,17 +29,10 @@ USE CASE <br>
 CLASS DIAGRAM <br>
 ![Class Diagram APBO drawio](https://github.com/DanielDaudAlberthus/UTS-APBO-A/assets/148308997/1e7bd133-0b67-496c-9775-88b4e43edfa1)
 
-
-CLASS DIAGRAM <br>
-![Class Diagram APBO drawio](https://github.com/DanielDaudAlberthus/UTS-APBO-A/assets/148308997/1e7bd133-0b67-496c-9775-88b4e43edfa1)
-
-
-
 <h2>NOTA</h2>
 
 ERD <br>
 ![alt text](https://github.com/DanielDaudAlberthus/UTS-APBO-A/blob/main/erd_steam.png)
-
 
 <h2>WIREFRAME & MOCKUP</h2>
 
@@ -75,4 +68,3 @@ Total Pendapatan
 
 <h2>Youtube</h2>
 <h5>Link Presentasi Youtube: https://youtu.be/OE2-YDiHqIE </h5>
-
