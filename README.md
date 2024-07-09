@@ -27,7 +27,7 @@ USE CASE <br>
 ![image](https://github.com/DanielDaudAlberthus/UTS-APBO-A/assets/144523084/3c5f9044-dc5c-4af6-bfbb-e6c520526cdb)
 
 CLASS DIAGRAM <br>
-![Class Diagram APBO drawio](https://github.com/DanielDaudAlberthus/UTS-APBO-A/assets/148308997/1e7bd133-0b67-496c-9775-88b4e43edfa1)
+![Class Diagram APBO drawio](https://github.com/MatthewAldhinoSirait/UTS-APBO-A/assets/148308997/6ffaca5d-af8f-4bad-a057-84650de31fe9)
 
 ERD <br>
 ![alt text](https://github.com/DanielDaudAlberthus/UTS-APBO-A/blob/main/erd_steam.png)
@@ -63,6 +63,12 @@ Total Pendapatan
 300.000
 
 <h5>LINK FIGMA nya: https://www.figma.com/file/0cxvXPuKSyC6jBOcuSqJI5/Eyo-Steam?type=design&node-id=19-701&mode=design&t=w8COvMWiplbbae7o-0</h5>
+
+<h2>SECQUENCE DIAGRAM</h2>
+![Sequence Diagram](https://github.com/MatthewAldhinoSirait/UTS-APBO-A/assets/148308997/663b204f-4aa3-4c19-8a52-8a4a9a86667d)
+
+<h2>ACTIVITY DIAGRAM</h2>
+![Activity Diagram drawio](https://github.com/MatthewAldhinoSirait/UTS-APBO-A/assets/148308997/980a23ba-005e-4534-9f09-4805763849d4)
 
 <h2>YOUTUBE</h2>
 <h5>Link Presentasi Youtube: https://youtu.be/OE2-YDiHqIE </h5>
